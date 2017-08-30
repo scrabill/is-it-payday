@@ -16,6 +16,7 @@ While I don't expect any contributes, they are more then welcome! If you see a t
 - [] Conditional for if a month has less than 31 days
 - [] Output was today's date is
 - [] Output when the date paydate is (or how many days away it is)
+- [] Gifs!
 
 ## Inspiration
 
