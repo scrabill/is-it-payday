@@ -1,4 +1,4 @@
-var message = ;
+var message = null;
 
 var d = new Date();
 var today = d.getDate();
