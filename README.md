@@ -14,8 +14,9 @@ While I don't expect any contributes, they are more then welcome! If you see a t
 - [] Input for defining pay dates
 - [] Conditional statement for if payday falls on a weekend or holday
 - [] Conditional for if a month has less than 31 days
-- [] Output was today's date is
+- [x] Output was today's date is
 - [] Output when the date paydate is (or how many days away it is)
+- [] Error messages. Cannot find date, invalid date format, etc
 - [] Gifs!
 
 ## Inspiration
