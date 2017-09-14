@@ -20,4 +20,4 @@ While I don't expect any contributes, they are more then welcome! If you see a t
 
 ## Inspiration
 
-* [Is is iced coffee weather?](http://isiticedcoffeeweather.com/)
+* [Is it iced coffee weather?](http://isiticedcoffeeweather.com/)
