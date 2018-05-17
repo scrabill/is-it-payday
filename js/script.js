@@ -2,13 +2,19 @@ var message = null;
 var d = new Date();
 var today = d.getDate(); // return the day of the month as a number 0-30
 var month = d.getMonth(); // return month as a number 0-11
+var year = d.getFullYear();
 var months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
 var payDay = document.getElementById("PayDay");
 
-// Is today's date the 15 or the 30th? If yes...
+// used to calculate the last day of month -- especially helpful for February
+var lastday = function(y,m){
+return  new Date(y, m +1, 0).getDate();
+}
 
-if ( today == 15 || today == 30) {
-	message = "Yay! It's Payday!";	
+// Is today's date the 15 or the last day of the month? If yes...
+
+if ( today == 15 || today == lastday(year,month)) {
+	message = "Yay! It's Payday!";
 }
 
 // If not...
