@@ -1,13 +1,13 @@
 # Is it payday?
 
-I'm a little obsessed with creating simple applications in Javascript. In wanting to pratice using Javascript in functional ways, I created this webpage which answers the question of "Is it payday?". 
+I'm a little obsessed with creating simple applications in Javascript. In wanting to practice using Javascript in functional ways, I created this webpage which answers the question of "Is it payday?". 
 
 ## But wait...
 This website is purposely (for now) simple. Payday is assumed to be twice a month, on the 15th and 30th.
 
 ## Contributing
 
-While I don't expect any contributes, they are more then welcome! If you see a typo or just have a code suggestion, fork it, commmit, create a pull request and I'll get it added in. 
+While I don't expect any contributes, they are more than welcome! If you see a typo or just have a code suggestion, fork it, commit, create a pull request and I'll get it added in. 
 
 ## Parking lot (possible enhancements)
 
